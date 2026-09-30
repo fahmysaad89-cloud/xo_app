@@ -1,1 +1,4 @@
-<img width="712" height="1600" alt="WhatsApp Image 2026-09-30 at 3 08 29 PM" src="https://github.com/user-attachments/assets/e77e3db9-38a2-4d16-8245-303ad9bb44d6" />
+<img width="310" height="686" alt="Screenshot 2026-09-30 150930" src="https://github.com/user-attachments/assets/3b9cd171-4817-462e-ba6a-e5e6f604c123" />
+<img width="307" height="687" alt="Screenshot 2026-09-30 151013" src="https://github.com/user-attachments/assets/e735d62f-17e3-488b-879c-09e88d0aff53" />
+<img width="305" height="678" alt="Screenshot 2026-09-30 151028" src="https://github.com/user-attachments/assets/7682f743-bb47-47e2-902f-df46fc37818b" />
+<img width="305" height="683" alt="Screenshot 2026-09-30 151053" src="https://github.com/user-attachments/assets/9b2568f4-0c8d-4633-a63b-9d2687012ee3" />
