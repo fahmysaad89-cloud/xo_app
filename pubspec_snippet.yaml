@@ -1,0 +1,25 @@
+# ضيف ده في pubspec.yaml (أو شغّل الأوامر اللي تحت)
+# flutter pub add provider hive hive_flutter google_fonts flutter_animate confetti
+# flutter pub add --dev flutter_launcher_icons
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.0
+  confetti: ^0.7.0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+
+flutter:
+  assets:
+    - assets/icon/
+# بعد ما تحط الأيقونة: dart run flutter_launcher_icons
